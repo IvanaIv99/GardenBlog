@@ -1,0 +1,18 @@
+
+
+.div-profile-photo{
+    width:100%;
+    height:auto;
+}
+.div-profile-details{
+
+    height:auto;
+    font-family: 'Droid Sans', serif;
+}
+.addButton{
+    background-color: #74a044;
+    margin-bottom: 10px;
+    /*width:20px;*/
+    /*height: auto;*/
+}
+
